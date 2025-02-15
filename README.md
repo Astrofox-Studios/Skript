@@ -2,8 +2,10 @@
 
 ---
 
-# This is a FORK for out event
-Adding a new variable type: "Binary"
+# This is a FORK for the Destiny Games event
+New Features:
+
+- Adding a new variable storage type: "Binary" (replaces variables.csv)
 
 # Skript
 **Skript** is a Minecraft plugin for Paper/Spigot, which allows server owners and other people
