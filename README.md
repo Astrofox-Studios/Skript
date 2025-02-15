@@ -2,6 +2,9 @@
 
 ---
 
+# This is a FORK for out event
+Adding a new variable type: "Binary"
+
 # Skript
 **Skript** is a Minecraft plugin for Paper/Spigot, which allows server owners and other people
 to modify their servers without learning Java. It can also be useful if you
